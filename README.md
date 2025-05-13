@@ -1,50 +1,50 @@
-
 <p align="center">
-  🎯 .NET Developer in progress | 💻 C# Enthusiast | 🎨 UI Curious<br>
-  👀 دنبال فرصت‌های کاری در حوزه Back-End و Web Development
+  🎯 Aspiring .NET Developer | 💻 C# Enthusiast | 🎨 UI Curious<br>
+  👀 Seeking opportunities in Back-End and Web Development
 </p>
 
 ---
 
-### 👨‍💻 درباره من
+### 👨‍💻 About Me
 
-- 🧠 در حال یادگیری فشرده **C#، .NET Core، ASP.NET MVC**
-- 🔄 مروری بر مفاهیم پایه‌ای OOP و طراحی ساختار نرم‌افزار
-- 📚 تمرین مداوم با پروژه‌های واقعی برای افزایش مهارت
-
----
-
-### 🚀 مهارت‌هایی که دارم
-
-| زبان/تکنولوژی | سطح |
-|---------------|------|
-| `C#`           | 🔄 در حال تمرین |
-| `.NET Core`    | 📥 در حال یادگیری |
-| `Git & GitHub` | ✅ مسلط برای پروژه‌های شخصی |
-| `OOP`          | ✅ مفاهیم رو بلدم |
-| `HTML/CSS`     | 🔍 آشنایی مقدماتی |
-| `SQL`          | 💡 در حال یادگیری مفاهیم پایه |
+- 🧠 Actively learning **C#, .NET Core, ASP.NET MVC**
+- 🔄 Reviewing fundamental OOP concepts and software architecture patterns
+- 📚 Continuously practicing with real-world projects to enhance skills
 
 ---
 
-### 📁 پروژه‌های تمرینی
+### 🚀 My Skills
 
-| عنوان پروژه | توضیح کوتاه | لینک |
-|-------------|-------------|------|
-
-
-> تمامی پروژه‌ها در مسیر یادگیری C# پایه ساخته شدن و مرتباً به‌روزرسانی می‌شن.
+| Language/Technology | Proficiency         |
+|-----------------------|---------------------|
+| `C#`                  | 🔄 Practicing        |
+| `.NET Core`           | 📥 Learning          |
+| `Git & GitHub`        | ✅ Proficient (Personal Projects) |
+| `OOP`                 | ✅ Understanding Concepts |
+| `HTML/CSS`            | 🔍 Basic Familiarity |
+| `SQL`                 | 💡 Learning Basics    |
 
 ---
 
-### 📬 ارتباط با من
+### 🛠️ Practice Projects
 
-- ✉️ ایمیل: motaharekamrani@gmail.com
-- 📁 GitHub: [صفحه پروژه‌ها](https://github.com/Motahare-KamraniFard)
+| Project Title | Short Description | Link |
+|---------------|-------------------|------|
+|               |                   |      |
+|               |                   |      |
+|               |                   |      |
+
+> All projects are built while learning fundamental C# and are regularly updated.
+
+---
+
+### 📬 Connect with Me
+
+- ✉️ Email: motaharekamrani@gmail.com
+- 📁 GitHub: [Project Portfolio](https://github.com/Motahare-KamraniFard)
 
 ---
 
 <p align="center">
-  با اشتیاق در مسیر توسعه‌دهنده شدن! 😊
+  Excited about the journey to becoming a developer! 😊
 </p>
-
