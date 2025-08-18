@@ -10,21 +10,19 @@
 - 🧠 Actively learning **C#, .NET Core, ASP.NET MVC**
 - 🔄 Reviewing fundamental OOP concepts and software architecture patterns
 - 📚 Continuously practicing with real-world projects to enhance skills
-- 🚀 Interested in building **clean, maintainable, and scalable applications**
 
 ---
 
-### 🚀 My Skills
+### 🚀 Skills & Tools
 
-| Language/Technology | Proficiency         |
-|-----------------------|---------------------|
-| `C#`                  | ✅ Solid Foundation |
-| `.NET Core`           | 📥 Learning          |
-| `ASP.NET MVC`         | 📥 Learning          |
-| `Git & GitHub`        | ✅ Proficient (Personal Projects) |
-| `OOP`                 | ✅ Understanding Concepts |
-| `HTML/CSS`            | 🔍 Basic Familiarity |
-| `SQL`                 | 💡 Learning Basics    |
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Practicing-blue?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Basics-lightgrey?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -48,13 +46,13 @@
 | **Reverse-a-String**               | Reverses a given string | [🔗 Repo](https://github.com/Motahare-KamraniFard/Reverse-a-String) |
 | **Counter-of-even-and-odd-numbers**| Counts even and odd numbers in a given list | [🔗 Repo](https://github.com/Motahare-KamraniFard/Counter-of-even-and-odd-numbers) |
 
-
 ---
 
 ### 📬 Connect with Me
 
-- ✉️ Email: motaharekamrani@gmail.com  
-- 📁 GitHub: [Project Portfolio](https://github.com/Motahare-KamraniFard)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Gmail](https://img.shields.io/badge/Gmail-motaharekamrani%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:motaharekamrani@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/Motahare-KamraniFard)
 
 ---
 
