@@ -51,7 +51,7 @@
 ### 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/Gmail-motaharekamrani%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:motaharekamrani@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-motaharekamrani%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaamranifard@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github)](https://github.com/Motahare-KamraniFard)
 
 ---
