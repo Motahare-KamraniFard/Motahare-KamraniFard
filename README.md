@@ -30,6 +30,7 @@
 
 | Project Title         | Short Description | Link |
 |-----------------------|-------------------|------|
+| **MultiOutPutLogger**  | featuring configurable, policy-based routing | [🔗 Repo](https://github.com/Motahare-KamraniFard/MultiOutputLogger) |
 | **FormatConversion**  | Convert between CSV/JSON and C# objects with validation and error handling | [🔗 Repo](https://github.com/Motahare-KamraniFard/FormatConversion) |
 | **RestaurantHub**     | A simple restaurant management system handling menu items and orders | [🔗 Repo](https://github.com/Motahare-KamraniFard/RestaurantHub) |
 | **StudentManagement** | Manage student data with basic CRUD-like operations | [🔗 Repo](https://github.com/Motahare-KamraniFard/StudentManagement) |
