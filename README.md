@@ -17,6 +17,7 @@
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF%20Core-8C3EB9?style=for-the-badge&logo=database&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Practicing-blue?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-Basics-lightgrey?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
