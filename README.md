@@ -31,6 +31,7 @@
 
 | Project Title         | Short Description | Link |
 |-----------------------|-------------------|------|
+| **ASP.NET-Core-Scoped-Service-Custom-Middleware-Example** | A simple ASP.NET Core project demonstrating how to use a scoped service (IRequestIdService) inside a custom middleware (MyMiddleware). | [🔗 Repo](https://github.com/Motahare-KamraniFard/ASP.NET-Core-Scoped-Service-Custom-Middleware-Example) |
 | **MultiOutPutLogger**  | featuring configurable, policy-based routing | [🔗 Repo](https://github.com/Motahare-KamraniFard/MultiOutputLogger) |
 | **FormatConversion**  | Convert between CSV/JSON and C# objects with validation and error handling | [🔗 Repo](https://github.com/Motahare-KamraniFard/FormatConversion) |
 | **RestaurantHub**     | A simple restaurant management system handling menu items and orders | [🔗 Repo](https://github.com/Motahare-KamraniFard/RestaurantHub) |
